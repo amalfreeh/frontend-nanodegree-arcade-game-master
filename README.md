@@ -1,4 +1,5 @@
-Summary
+###Summary
+
 Frogger Arcade game is a slight cariation of the classic Frogger Arcade Game developed by Konami. I made this game as a project that is part of the Udacity Front-End Web Developer Nanodegree.
 
 Instruction
